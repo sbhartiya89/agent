@@ -1,0 +1,860 @@
+https://github.com
+uname: agentinfraguard
+agentinfraguard@gmail.com/Pass112233
+
+https://www.udemy.com
+singh.amit9@gmail.com/Rightcloud7
+
+python: udemy-dl -u singh.amit9@gmail.com -p Rightcloud7 course-url
+nodeJs: udl -u singh.amit9@gmail.com -p Rightcloud7 course-url
+26-02-2018 --> 20-03-2018 - 23 Days - Udemy Solution Architect Associate Course
+04-04-2018 -->  -  Days - Udemy Devops Associate Course
+
+https://acloud.guru/
+training@rightcloud.asia/tr@1n1ngAWS
+
+For getting full access on acloudguru:
+singh.amit9@gmail.com/Therightway7
+
+https://qwiklabs.com/users/sign_in?locale=en
+amit@rightcloud.asia/cantatarightcloud7
+
+Rightcloud Services Private Limted
+RightCloudAsia Account:
+sourabh.aren@rightcloud.asia/sourabh.aren
+
+EC2 Wordpress:
+sbhartiya/@(RW)jSuSH1OxClPlV
+
+tykans.tpondemand.com:
+saren/saurabh.cantata@gmail.com/tykans89@/1244
+
+Domains:
+picsee.com, dropbag.com, picnic.com
+mycseprojects.com
+
+populate web service data with help of pagination and
+in pagination, edit, delete, add data item
+
+<p>Form value: {{ userForm.value | json }}</p>
+<p>Form status: {{ userForm.status | json }}</p>
+
+http://jsonplaceholder.typicode.com/posts
+
+SELECT default_character_set_name FROM information_schema.SCHEMATA S WHERE schema_name = "webservice";
+ALTER DATABASE webservice CHARACTER SET utf8 COLLATE utf8_general_ci;
+ALTER TABLE tablename CONVERT TO CHARACTER SET utf8 COLLATE utf8_unicode_ci;
+
+Alphabets and blankspace:
+ng-pattern="/^[a-zA-Z\s]*$/";
+
+Alphabets no blankspace:
+ng-pattern="/^[a-zA-Z]*$/";
+
+*ngIf="userForm.controls['fname'].errors && submitted != null && !submitted"
+
+unamePattern = "^[a-z0-9_-]{8,15}$";
+pwdPattern = "^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?!.*\s).{6,12}$";
+mobnumPattern = "^((\\+91-?)|0)?[0-9]{10}$"; 
+emailPattern = "^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$";
+
+https://www.draw.io/
+https://cacoo.com/
+http://diagramo.com/editor/editor.php
+https://www.lucidchart.com/
+https://www.gliffy.com/
+
+
+.item8 .step1 {
+    top: 200px;
+    width: 550px;
+    left: 93px;
+}
+
+================================================================================
+
+ProjectDesk Details::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Pending Work:
+1. Custom Validations.
+2. Services to share data between components.
+3. Remove the usage of localStorage.
+4. Show error messages in separate div instead of alert box.
+5. HTTP Services and observable are used and interfaces are used for creating object data.
+
+Doubts:
+1. Invite icon shows to user dashboard if company is not created yet ?
+2. Choose Plan is approached first before register company by user then what ?
+3. How we identify that this mobile number is related to which country ?
+4. Why Card Expiry Date, Card No., and CVV is not mandatory because whithout card no. there is no
+meaning of credit card ?
+
+http://40.85.221.225:4200/
+
+# Windows VM
+
+Windows VM - 40.85.243.39 RDP (port 3389)
+username: projectdesk
+password: Tyk@n$Pr0j3ct
+
+# Linux Machine
+
+IP : 40.85.221.225
+User : ProjectDesk
+Password : Tyk@n$Pr0j3ct
+ssh projectdesk@40.85.221.225
+
+npm install -g @angular/cli
+ng serve --host 0.0.0.0
+
+nohup ng serve --host 0.0.0.0 &
+
+sudo rsync -avh --progress ./src projectdesk@40.85.221.225:/home/projectdesk/ProjectDesk
+
+Requirement Finalize Meetings: 1185
+
+============================================================================================
+
+owbracelets.com php web application:
+http://owbracelets.com/
+
+
+CCAvenue Account:
+one_167718/12Cret@!12$
+https://www.ccavenue.com/faq_ccav.jsp
+
+CPanel:
+Domain: owbracelets.com
+https://webbox1.ncrdns.net:2083/
+http://owbracelets.com:2083/
+IP: 46.105.138.248
+UserName: owbracelets
+PassWord: dudel@123456
+
+ssh owbracelets@46.105.138.248
+
+============================================================================================
+
+AWS-Cloud-Guesskaro::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+amit@rightcloud.asia/RightcloudCantata7
+
+https://146963638595.signin.aws.amazon.com/console
+saurabh/RightcloudSaurabh7
+redshift-admin/RightcloudCantata7
+
+<user name="admin" password="adminadmin" roles="manager-gui,admin-gui"/>
+vi /usr/share/tomcat7/
+vi /usr/share/tomcat7/webapps/manager/WEB-INF/web.xml
+
+ssh ec2-user@13.126.104.83 -i /home/saurabh/Downloads/guesskaro-ec2-kp.pem
+
+ssh key id - APKAJUR7HYXWWWGTEMJQ
+uname - saurabh-at-146963638595
+passw - IdzZaDeYlglMZRy9yjasvLK9MtOYf031+jdUzE3EshQ=
+
+git clone https://git-codecommit.ap-south-1.amazonaws.com/v1/repos/guesskaro
+
+Access Key ID:
+AKIAI2W743OZLSXYPFZQ
+Secret Access Key:
+mIGD0yeSrparp5foCVOlyhOa6KMEVbN+CIKDHxpi
+
+start guesskaro on aws cloud on 09-Apr-2018:
+dbname - ebdb
+uname - root
+passw - guesskaroroot
+endpoint - guesskaro-rds-instance.cnqxnmgpifhd.ap-south-1.rds.amazonaws.com
+
+#DB properties:
+db.driver=com.mysql.jdbc.Driver
+db.url=jdbc:mysql://guesskaro-rds-instance.cnqxnmgpifhd.ap-south-1.rds.amazonaws.com:3306/ebdb
+db.username=root
+db.password=guesskaroroot
+
+Database Import:
+mysql --defaults-file="/tmp/tmpJrbZdB/extraparams.cnf"  --protocol=tcp --host=guesskaro-rds-instance.cnqxnmgpifhd.ap-south-1.rds.amazonaws.com --user=root --port=3306 --default-character-set=utf8 --comments --database=ebdb  < "/home/saurabh/Downloads/guesskar_database.sql"
+
+To change Port 80 or 8080 on tomcat:
+/sbin/iptables -t nat -I PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
+
+chkconfig --list
+chkconfig tomcat7 on
+
+from the home page, go to Domains -> My Account -> Domain Management -> DNS Manager. Click "Edit Zone" when it appears.
+
+In the Zone Editor, you will see several tables. In the table where it says "A (Host)", find the entry where Host = "@". Click on that entry to edit the field for "Points to". Add the elastic IP you just got from Amazon. Click "Save Zone File" when you are done.
+
+elastic ip - 13.126.104.83
+
+To run tomcat webapp on port 80 type proxyPort="80" in /usr/share/tomcat7/conf/server.xml in the following template:
+<Connector port="8080" proxyPort="80" executor="tomcatThreadPool"
+               protocol="HTTP/1.1"
+               connectionTimeout="20000"
+               redirectPort="8443" />
+
+
+# Checking the current iptables content on the prerouting table
+$ sudo /sbin/iptables -L -n -t nat
+# Adding the rules:
+$ sudo /sbin/iptables -t nat -I PREROUTING -p tcp —-dport 80 -j REDIRECT --to-port 8080
+$ sudo /sbin/iptables -t nat -I PREROUTING -p tcp --dport 443 -j REDIRECT --to-port 8443
+# Checking that the rules were added succesfully
+$ sudo /sbin/iptables -L -n -t nat
+# Saving the rules
+$ sudo /sbin/service iptables save
+# Restarting ipTables:
+$ sudo /etc/init.d/iptables restart
+# Checking that the rules were saved succesfully
+$ sudo /sbin/iptables -L -n -t nat
+
+if rsync throws rsync permission denied (publickey), then we use -e option and use this command below:
+rsync -avh --progress /media/saurabh/New\ Volume/GuessKaro/build/classes/com/cantata/config/LoginInterceptor.class ec2-user@13.126.104.83:/home/ec2-user -e "ssh -i /home/saurabh/Downloads/guesskaro-ec2-kp.pem"
+
+d1vn2d0xqs9dt8.cloudfront.net
+
+my domain -> manage dns -> nameservers -> change it -> choose custom
+A record with naked domain and enter value as eip of instance.
+A record with www domain and enter target as naked domain.
+
+
+create cname record "d1vn2d0xqs9dt8.cloudfront.net"
+
+http://images.tutumainmain.com/resources/predictionImages/big/guesskaro_-5197138481167250694.jpg
+<base href="${pageContext.request.contextPath}/"/>
+
+java version "1.7.0_181"
+OpenJDK Runtime Environment (amzn-2.6.14.1.79.amzn1-x86_64 u181-b00)
+OpenJDK 64-Bit Server VM (build 24.181-b00, mixed mode)
+
+S3 Grant Access to allow public read objects:
+{
+    "Version": "2008-10-17",
+    "Statement": [
+        {
+            "Sid": "AllowPublicRead",
+            "Effect": "Allow",
+            "Principal": {
+                "AWS": "*"
+            },
+            "Action": "s3:GetObject",
+            "Resource": "arn:aws:s3:::ec2-13-126-104-83.ap-south-1.compute.amazonaws.com/*"
+        }
+    ]
+}
+
+creditItem question
+<core:out value="${pageContext.request.contextPath}"></core:out>
+
+<%@taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt"%>
+<fmt:setBundle basename="application" var="lang"/>
+<fmt:setLocale value="en"/>
+<fmt:message key="path.image" var="image_path" bundle="${lang}"/>
+
+var image_path = "http://images.tutumainmain.com/";
+http://images.tutumainmain.com/resources/homePage
+
+will start from searchPrediction&User&HashTag.js
+<input type="hidden" class="image_path_class" value="${image_path}"/>
+var image_path = $(".image_path_class").val()+"/";
+
+URL = :  >> lastHit = :  >> Extrace = : UrlRewriteFilter.java:52, MultiHttpSecurityConfig.java:73 >> Ex. Name = : Request processing failed; nested exception is org.apache.tiles.impl.CannotRenderException: ServletException including path '/resources/layouts/layout.jsp'.
+
+*Exception Name = : NestedServletException. Check line No. = :  948 in FrameworkServlet.processRequest().
+
+URL = :  >> lastHit = :  >> Extrace = : UrlRewriteFilter.java:52, MultiHttpSecurityConfig.java:73 >> Ex. Name = : Request processing failed; nested exception is org.apache.tiles.impl.CannotRenderException: ServletException including path '/resources/layouts/layout.jsp'.
+
+curl -svoI http://images.tutumainmain.com/resources/homePage/addFirstCSS/login.css
+
+
+rsync -avh --progress /home/saurabh/Downloads/the-news-reporter ec2-user@13.55.139.75:/var/www/html/ -e "ssh -i /home/saurabh/Downloads/Saurabh-EC2-Machine-KP.pem"
+ssh ec2-user@13.55.139.75 -i /home/saurabh/Downloads/Saurabh-EC2-Machine-KP.pem
+
+var contextPath = window.location.protocol+"//"+path+"/"; //for website
+var image_path = $(".image_path_class").val()+"/";
+if(contextPath.indexOf("://localhost:")>=0)
+	contextPath = contextPath+"GuessKaro2/";
+
+${pageContext.request.contextPath} --localhost
+${image_path} -- cloud
+
+changes in layouts, application.properties, props.properties, jawr.properties.
+upload layout, homePage Folder on ec2-machine.
+
+public final String BIG_FOLDER_NAME = "big"; 
+public String IMAGE_HOME_LOCATION = "predictionImages"; 
+javaUtil.resourcesImagePath
+
+/controller/AdminCreateController.java
+/controller/LoginController.java
+/controller/SettingController.java
+/controller/UserAccessController.java
+/gifimage/GIFProcessor.java
+/service/AsyncMailSender.java
+/threadTask/AskQuestionHandler.java
+/threadTask/ThreadImageReader.java
+/util/ImageCompressor.java
+/util/JavaUtil.java
+/util/ImageUtil.java
+/util/ImageUtility.java
+/util/RemovePredictionHandler.java
+
+============================================================================================
+
+testing credentials github:
+spiyushk/Pass112233
+
+=============================================================================================
+
+Draw.io Diagrams for AWS and Azure:
+
+1. first time when you edit : https://www.draw.io/?libs=aws2&splash=0
+2. when you edit : appemnd this ?libs=aws2 at the end of draw.io site to open aws mode
+
+=============================================================================================
+
+rm -rf /opt/infraguard/
+rm -rf /var/logs/infraguard
+rm -rf /etc/init.d/agent_controller.sh
+
+============================ To execute from CLI ============================================
+
+bash <(wget -qO- https://raw.githubusercontent.com/agentinfraguard/agent/master/scripts/agentInstaller.sh) server111 pid101 lKey101
+
+bash <(wget -qO- https://raw.githubusercontent.com/agentinfraguard/agent/master/scripts/agentInstaller.sh) fedora 1001 lKey1X1201
+
+Username: piyush
+sudo pwd: rdy7d70HGWlV  *********************** piyushM5j6
+Server: 52.221.15.30
+
+ssh piyush@52.221.15.30 >>>>>>>>>>>> ssh test17@52.221.15.30  ssh rajeevcantata@13.228.40.159
+ssh ec2-user54.255.154.237
+
+
+1] Uncomment  . /etc/init.d/functions [agent_controller.sh]
+2] Replace command with nohup
+3] Put tmp file after downloading golang exe
+
+
+
+service agent_controller.sh does not support chkconfig
+
+service does not support chkconfig
+
+================================================================================================
+
+Online Random JSON API Calls:
+https://api.github.com/search/users?page=1&q=daspinola&type=Users
+
+================================================================================================
+
+http://stackoverflow.com/questions/29366038/looping-iterate-over-the-second-level-nested-json-in-go-lang
+
+Parse Json
+
+nslookup 52.221.15.30
+
+host 52.221.15.30
+
+fmt.Println(reflect.TypeOf(key))
+
+bool, for JSON booleans
+float64, for JSON numbers
+string, for JSON strings
+[]interface{}, for JSON arrays
+map[string]interface{}, for JSON objects
+nil for JSON null
+
+https://dzone.com/articles$command &>/dev/null &/try-and-catch-in-golang --> Exception Handling
+
+cd home/piyush/go_projects/src/agentController/
+strconv.Itoa(123)
+/usr/sbin/userdel -r Vinyl9F75A8
+
+http://stackoverflow.com/questions/27248865/comment-line-in-sudoers-file-linux ----------------> Sed Command
+
+================================================================================================
+
+rm -rf /opt/infraguard/
+rm -rf /var/logs/infraguard/
+rm -rf /etc/init.d/agent_controller_ubuntu.sh
+rm -rf /etc/init.d/agent_controller.sh
+
+Make arrangement for sudoAdder.sh [Git]
+Send response status through hit api
+make 700 & 640 .ssh/authorised_keys 
+nohup command 
+Check whether user has root level access or user level access
+http://stackoverflow.com/questions/8784761/adding-users-to-sudoers-through-shell-script?lq=1
+
+=============================== Sudo access right for a user ==================================
+
+func hasRootAccess(usrName string) bool{
+    cmd := "id -nG "+usrName
+    status := agentUtil.ExecComand(cmd, "misc. L70")
+    return (strings.Contains(status, "sudo"))
+}
+
+================================================================================================
+
+install below package:
+go get github.com/robfig/cron
+go get github.com/jasonlvhit/gocron
+
+go get github.com/claudiu/gocron
+
+
+
+bash <(wget -qO- https://raw.githubusercontent.com/agentinfraguard/agent/master/scripts/agentInstaller.sh) server111 6 lKey101
+
+======================================= Sudo Privileges ==========================================
+
+sudo usermod -a -G sudo hduser
+ssh-keygen -t rsa
+
+==================================================================================================
+
+https://unix.stackexchange.com/questions/131886/ssh-public-key-wont-send-to-server
+
+root     25179     1  0 08:03 ?        00:00:04 /opt/infraguard/sbin/infraGuardMain
+
+
+https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server-in-ubuntu
+
+ssh-copy-id 52.221.15.30
+
+********************************************** Piyush SSH ******************************************
+
+-rw-r--r-- 1 piyush piyush 1767 May 11 16:13 id_rsa
+-rw-r--r-- 1 piyush piyush  402 May 11 16:13 id_rsa.pub
+-rw-r--r-- 1 piyush piyush  222 May 11 16:13 known_hosts
+
+*********************************************** Piyush SSH ******************************************
+
+https://askubuntu.com/questions/343060/no-more-authentication-methods-to-try-permission-denied-publickey
+sudo chmod 700 ~/.ssh/
+sudo chmod 600 ~/.ssh/*
+sudo chown -R User ~/.ssh/
+sudo chgrp -R User ~/.ssh/
+
+https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server
+scp myscripts/goCode/userMgmt.go piyush@52.221.15.30:home/piyush/go_projects/src/userMgmt.go
+
+scp /home/piyush/go_projects/src/agentController/sshLoginTest.go piyush@52.221.15.30:/home/piyush/go_projects/src/sshLoginTest.go
+
+scp /home/piyush/go_projects/src/agentController/sshLoginTest piyush@52.221.15.30:/home/piyush/go_projects/src/sshLoginTest
+
+deluser --remove-home myuser
+
+scp -r /home/piyush/agent/go_projects piyush@52.221.15.30:/home/piyush/go_projects
+
+scp /home/piyush/go_projects/src/agentController/sshLoginTest.go piyush@52.221.15.30://home/piyush/go_projects/src/sshLoginTest.go
+bash <(wget -qO- https://raw.githubusercontent.com/agentinfraguard/agent/master/scripts/agentInstaller.sh) server111 6 lKey101 
+
+bash <(wget -qO- https://raw.githubusercontent.com/agentinfraguard/agent/master/scripts/agentInstaller.sh) 'disown testing' 6 LicenseKey
+
+ps aux | grep -i infraGuardMain
+
+/opt/infraguard/sbin/infraGuardMain
+pgrep -f infraGuardMain
+
+disown: not found
+
+/etc/init.d/agent_controller_ubuntu.sh stop
+/etc/init.d/agent_controller.sh stop
+/etc/init.d/agent_controller.service stop
+
+
+command="/opt/infraguard/sbin/infraGuardMain"
+$command &>/dev/null &
+
+pgrep -f infraGuardMain
+bash <(wget -qO- https://raw.githubusercontent.com/agentinfraguard/agent/master/scripts/agentInstaller.sh) 'agent on ubuntu' 6 LicenseKey
+
+
+#daemon "nohup $command >/dev/null 2>&1 &"
+#$command &>/dev/null & ------------------- wrong
+$command > /dev/null 2>&1 & --------- Correct
+
+
+
+
+service agent_controller_ubuntu.sh stop
+https://stackoverflow.com/questions/6212219/passing-parameters-to-a-bash-function
+
+gitFullPath="https://github.com/$repoName/agent/blob/master/go/src/agentController/infraGuardMain"
+
+service agent_controller_ubuntu.sh status
+
+/etc/init.d/agent_controller_ubuntu.sh stop
+
+pgrep -f infraGuardMain
+
+
+ssh piyush@52.221.15.30 >>>>>>>>>>>> piyushM5j6
+
+=========================================spiyushk UnInstaller.sh===================================
+
+bash <(wget -qO- https://raw.githubusercontent.com/spiyushk/agent/master/scripts/agentInstaller.sh) server111 6 lKey101 
+bash <(wget -qO- https://raw.githubusercontent.com/spiyushk/agent/master/scripts/agentUnInstaller.sh) 
+
+=======================================agentinfraguard UnInstaller.sh==============================
+
+bash <(wget -qO- https://raw.githubusercontent.com/agentinfraguard/agent/master/scripts/agentInstaller.sh) 'agent on ubuntu' 6 LicenseKey
+bash <(wget -qO- https://raw.githubusercontent.com/agentinfraguard/agent/master/scripts/agentUnInstaller.sh) 
+
+===================================================================================================
+
+/etc/init.d/age stopssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCz3ifjEzeA6tXDxEv5zRBjNAxYofUv1s/k7pmOqROxfvoOabSFpnu6/jr0brGrWqE+9YcQrv19ga2RMkUd0tTo1Buwh94ReeBoPWphxgTCpqucaadOATXd97kixM3dLViGUb13bSKPKFjRdxVKfnfklE3LTDf+ENnPXcBHAq3O5EKJocHRoSSEnK89wnp4o3TmGC8HKeJ9BQFZ5RkW0e1OtvgX8+fD1W1hTuo8adrO2hviFcD1N5AglhHiFvQ+WKb/r+vsK7Uc/UcQODmBEcxsU3K8HG9UiJYPI9Brw5+ihXZkj+/4Rl/r1ILiDzvbckBlO3dYJPlBsKbNzuFQT1Zd minicron public key for 52.221.15.30
+/etc/init.d/agent_controller_ubuntu.sh stop
+
+/etc/init.d/agent_controller.sh stop
+
+This is agent uninstallation command and tested on staging server & ubuntu.
+bash <(wget -qO- https://raw.githubusercontent.com/agentinfraguard/agent/master/scripts/agentUnInstaller.sh) 
+
+It requires agentInfo.txt which created upon agent installation
+
+
+vi /opt/infraguard/etc/agentConstants.txt
+vi /var/logs/infraguard/activityLog
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCz3ifjEzeA6tXDxEv5zRBjNAxYofUv1s/k7pmOqROxfvoOabSFpnu6/jr0brGrWqE+9YcQrv19ga2RMkUd0tTo1Buwh94ReeBoPWphxgTCpqucaadOATXd97kixM3dLViGUb13bSKPKFjRdxVKfnfklE3LTDf+ENnPXcBHAq3O5EKJocHRoSSEnK89wnp4o3TmGC8HKeJ9BQFZ5RkW0e1OtvgX8+fD1W1hTuo8adrO2hviFcD1N5AglhHiFvQ+WKb/r+vsK7Uc/UcQODmBEcxsU3K8HG9UiJYPI9Brw5+ihXZkj+/4Rl/r1ILiDzvbckBlO3dYJPlBsKbNzuFQT1Zd minicron public key for 52.221.15.30
+
+http://localhost:9292/jobs
+
+*/2 * * * * echo date
+
+Amazon Linux:ec2-user
+Ubuntu:ubuntu
+Debian:admin
+RHEL 6.4 and later:ec2-user
+RHEL 6.3 and earlier:root
+Fedora:fedora
+Centos:centos
+SUSE:root
+BitNami:bitnami
+TurnKey:root
+NanoStack:ubuntu
+FreeBSD:ec2-user
+OmniOS:root
+
+NAME="Amazon Linux AMI"
+VERSION="2017.03"
+ID="amzn"
+ID_LIKE="rhel fedora"
+VERSION_ID="2017.03"
+PRETTY_NAME="Amazon Linux AMI 2017.03"
+ANSI_COLOR="0;33"
+CPE_NAME="cpe:/o:amazon:linux:2017.03:ga"
+HOME_URL="http://aws.amazon.com/amazon-linux-ami/"
+Amazon Linux AMI release 2017.03
+
+===================================================================================================
+
+1. mailUpdatedKey -- https://hy2acyhvj5.execute-api.us-west-2.amazonaws.com/dev/mailupdatedkey -- type,email,privateKey,serverIP
+2. onRequestServerAccessGranted -- https://zqnxqpctnf.execute-api.us-west-2.amazonaws.com/dev/serveraccessgranted -- id,userName,serverIP,status
+3. serverAccessRevoked -- https://9qwweevie1.execute-api.us-west-2.amazonaws.com/dev/serveraccessrevoked -- id,userName,serverIP,status
+4. serverKeyUpdated -- https://w3sfbhrwui.execute-api.us-west-2.amazonaws.com/dev/serverkeyupdated -- id,status 
+
+default - keyRotation 
+user - requestAccess
+
+id -nG nitin
+
+===================================== Below are for production ====================================
+
+1. mailUpdatedKey -- https://fhywo9k1mc.execute-api.ap-southeast-1.amazonaws.com/prod/mailupdatedkey 
+2. onRequestServerAccessGranted -- https://3yyritd4vi.execute-api.ap-southeast-1.amazonaws.com/prod/serveraccessgranted
+3. serverAccessRevoked -- https://qip49r8l0k.execute-api.ap-southeast-1.amazonaws.com/prod/serveraccessrevoked
+4. serverKeyUpdated -- https://lbx6visyg3.execute-api.ap-southeast-1.amazonaws.com/prod/serverkeyupdated
+
+===================================================================================================
+
+bash <(wget -qO- https://raw.githubusercontent.com/spiyushk/agent/master/scripts/agentInstaller.sh) server111 6 lKey101
+
+https://raw.githubusercontent.com/spiyushk/agent/master/scripts/agentUnInstaller.sh
+
+
+Infragaurd:
+ssh login to other machines using other private key file .pem:
+ssh -i /home/saurabh/Documents/infraTestCantata.pem ec2-user@13.127.2.236
+ssh saurabh@13.127.2.236
+passw: saurabh
+
+wget -qO- http://instance-data/latest/meta-data/local-ipv4 - 172.31.16.105 - hostname -I
+wget -qO- http://instance-data/latest/meta-data/public-ipv4 - 13.127.2.236 - curl ifconfig.me
+
+cat /proc/meminfo
+df -H
+cfdisk
+
+"host": "cantatainfradevdb.cu3ovhtaoa7i.ap-south-1.rds.amazonaws.com", 
+"user": "infraDev",
+"password": "infraDev3",
+"database": "infradb",
+"port":3306
+
+pratyush.pk3Account@gmail.com
+Pr@tyush
+
+rm -rf /opt/infraguard/
+rm -rf /var/logs/infraguard/
+rm -rf /etc/init.d/agent_controller_ubuntu.sh
+rm -rf /etc/init.d/agent_controller.sh
+rm -rf /etc/init.d/agent_controller.service
+rm -rf /etc/init.d/agent_controller
+
+To create user and allow ssh login:
+useradd saurabh
+passwd saurabh
+mkdir /home/saurabh/.ssh
+chown -R saurabh:saurabh /home/saurabh
+touch /home/saurabh/.ssh/authorized_keys
+chmod 700 /home/saurabh/.ssh
+chmod 600 /home/saurabh/.ssh/authorized_keys
+usermod -aG wheel saurabh
+
+To know the status of command:
+command && echo OK || echo FAIL
+command 2>/dev/null && echo OK || echo FAIL
+command && echo $? || echo $?
+
+systemctl stop agent_controller
+"systemctl list-units" to see status of service
+
+Install Agent:
+bash <(wget -qO- https://raw.githubusercontent.com/agentinfraguard/agentglobe/master/scripts/agentInstaller.sh --no-check-certificate) 'test_server' 45 LicenseKey 3 23
+
+Uninstall Agent:
+bash <(wget -qO- https://raw.githubusercontent.com/agentinfraguard/agentglobe/master/scripts/agentUnInstaller.sh)
+
+Stop Agent:
+systemctl stop agentService.service
+
+Start Agent:
+systemctl start agentService.service
+
+Restart Agent:
+systemctl restart agentService.service
+
+Status Agent:
+systemctl status agentService.service
+
+=====================================================================================================
+
+Angular Practice:
+
+var app = angular.module("App", [])
+app.filter("DemoFilter", function(){
+	return function(input){
+		return input + "lastname";
+	};
+});
+
+{{ tut | DemoFilter }}
+
+app.directive("ngDemo", function(){
+	return{
+		template : "<div>Hello World</div>"
+	}
+});
+
+app.controller("DemoCtrl", function(){
+	this.name = "saurabh";
+});
+
+app.directive("ngGuru",function(){
+	return{
+		controller: "DemoCtrl",
+		controllerAs: "ctrl",
+		template: "{{ctrl.name}}"
+	};
+});
+
+app.directive("outer", function(){
+	return{
+		restrict : "E",
+		template : "<div><inner></inner></div>"
+	};
+});
+
+app.directive("ngGuru", function(){
+	return {
+		link : function($scope, elem, attrs){
+			elem.bind("click", function(){
+				elem.html("hello clicked me.");
+			});
+		}
+	};	
+});
+
+const fp = new Promise((resolve, reject) => {
+	console.log();
+	fastResponse(resolve);
+});
+
+promise.then(function(result){}, function(error){});
+
+request("url", function(error, response, body){
+	
+});
+
+http({
+	
+}).success(function(result){}).error(function(){});
+
+request({
+	uri: "",
+	method: "",
+	form: {}
+}, function(err, resp, body){
+	
+});
+var request = require("request");
+var cookie = request.cookie("name=john");
+var jar = request.jar();
+jar.add(cookie);
+
+request({
+	uri: "",
+	method: "POST",
+	form: {},
+	jar: jar
+}, function(err, resp, body){});
+
+
+===================================================================================================
+
+AWS Shots:
+
+Register online for exam: https://www.webassessor.com
+Query about AWS certifications at awscertification@amazon.com
+AWS encrypts volumes and snapshots using AES-256
+VPC allows all inbound and outbound traffic whereas Network ACL denies all inbound and outbound traffic
+Application, Network and Classic Load Balancer
+Block IP Address using Network ACL not using security groups
+Network ACL contains numbered list of rules which is evaluated in order starting from lowest number
+One Internet gateway is attached to custom VPC at a time
+5 VPC allowed in each AWS region by default
+
+SQS is pull based not push based
+SQS messages are 256 KB in size
+Messages can be kept in Queue from 1 minute to 14 days and default is 4 days
+Visibility Time out maximum is 12 hours
+Two types of SQS are : Standard and FIFO
+You need to enable bucket versioning to manage S3 lifecycle policies
+Each VPC has a related instance tenancy attribute. You can't change the instance tenancy of a VPC after you create it. Any instance that you launch in a VPC with a specific tenancy will inherit the same tenancy of the VPC.
+By default, the scan operation processes data sequentially. DynamoDB returns data to the application in 1 MB increments, and an application performs additional scan operations to retrieve the next 1 MB of data
+A Customer Gateway is a physical device or software application on your side of the VPN connection.
+The controller service monitors the load balancers, adding and removing load balancers as needed and verifying that the load balancers are functioning properly.
+In multi-site solution both the infrastructures on AWS and on your external data center are always active and you can use one of them in case of a disaster.
+Elastic Load Balancing stores the clinet IP address in the X-Forwarded-For request header and passes the header along to your server.
+You can set up your Elastic Load Balancing to distribute incoming requests across EC2 instances in a single Availability Zone or multiple Availability Zones within a region. Your load balancer does not distribute traffic across regions.
+The AWS CloudFormation list-stacks command returns summary information about any of the running or deleted stacks, including the name, stack identifier, template, and status.
+A list of any of the stacks you have created or have deleted up to 90 days ago.
+When you use the wizard in the console to create a VPC with a gateway, the wizard automatically updates the route tables to use the gateway. If you’re using the command line tools or the API to set up your VPC, then you have to update the route tables yourself.
+By configuring the security group of EC2 you can ensure that the EC2 instances accept requests only from ELB.
+The default number of VPCs and IGWs per region is 5.
+The default number of subnets per VPC is 200.
+The default number of instances per region is 20.
+Only one Internet gateway can be attached to a VPC at time.
+Your standby is automatically provisioned in a different Availability Zone of the same Region as your primary DB instance.
+You can configure the IAM by using AWS console and command line interface using AWS CLI, AWS SDK, and IAM Query API calls.
+Scalability defines as "Increasing resources result in a proportional increase in performance".
+You can use SAML Identity Providers in order to integrate IAM between AWS and on premise LDAP or federated SSO implementation.
+DynamoDB guaranteed throughput and single-digit millisecond latency make it a great fit for gaming, advertising technology, mobile, and many other applications.
+Amazon CloudFront can handle up to 10, 000 requests per second.
+Amazon EC2 Reserved Instances allow you to reserve Amazon EC2 computing capacity for 1 or 3 years, in exchange for a significant discount (up to 75%) compared to On-Demand instance pricing. You can choose between three payment options: All Upfront, Partial Upfront, and No Upfront. If you choose the Partial or No Upfront payment option, the remaining balance will be due in monthly increments over the term.
+You are limited to: running up to 20 on-demand instances, purchasing 20 reserved instances, and requesting 5 spot instances per region.
+RRS is used for storing thumbnails, transcoded media, or the processed data that can be easily reproduced.
+Whether you're storing multimedia files such as photos and videos or pharmaceutical files, or financial data Amazon S3 can be used as your big data object store. Amazon Web services offers a comprehensive portfolio of services to help you manage big data by reducing costs, scaling to meet demand, and increasing the speed of innovation.
+Amazon S3 provides further protection with versioning capability. You can use versioning to preserve, retrieve, and restore every version of every object stored in your Amazon S3 bucket. This allows you to easily recover from both unintended user actions and application failures. By default, requests will retrieve the most recently written version.
+Amazon S3 can send event notifications when objects are uploaded to Amazon S3. Amazon S3 event notifications can be delivered using Amazon SQS or Amazon SNS, or sent directly to AWS Lambda, enabling you to trigger workflows, alerts, or other processing.
+S3 support read-after-write consistency for new objects but for all regions except US-East.
+When we create a bucket, we have to select a region for the bucket, and all data stored in that bucket is physically stored in that region only (although the data can be accessed from anywhere in the world with proper credentials).
+Auto scaling cannot increase instance size of an EC2 instance. The idea is to be able to scale horizontally, and not vertically. Auto scaling currently cannot automate RDS instance to do anything.
+RDS MultiAZ does make database a single AZ failure tolerant, as it has automatic failover feature, where the secondory will become primary and application can keep accessing the database. It also increases availability during maintenance, as maintenance is performed first on secondary, then its made primary and then old-primary is updated.
+
+
+
+
+Apache Tomcat Server for Java
+Apache HTTP Server for PHP, Python, Nodejs
+Nginx for NodeJs
+Passenger or Puma Server for Ruby
+
+1 nearest 4 = 4
+(4/4)*10 = 10
+if eventual consistency, then 10/2 = 5
+
+http://clusterfrak.com/notes/certs/aws_saa_notes/
+https://acloud.guru/forums/aws-certified-solutions-architect-associate/discussion/-KOtrx4m3od_P6xyllj3/passed-85-my-tips-notes
+https://www.mattbutton.com/2017/11/11/aws-solutions-architect-associate-exam-notes/
+https://github.com/agasthik/aws-csa-2017#configurations
+
+===================================================================================================
+
+Just for a quick brief, I would like to give you a synopsis of our application beforehand:
+
+ - Our Application is a Social Network Builder (that allows user to create something like a Private Facebook on his own domain)
+
+ - We are Modelled on MEAN Stack: Frontend on ReactJS, using ExpressJS and Backend on NodeJS, using Mongoose ORM, with Database on MongoDB.
+
+ - We have a parallel development on Python using PyMongo with same MongoDB Database for our Analytics and BigData Server. However there is a speculation that we might have to use MySQL RDBMS DBs for Analytics and Notifications, as that will help us process our queries even faster.
+
+ - We also have teams on Android (Java-Native) and iOS (SWIFT-Native), using same MongoDB Database to create integrated Mobile Apps alongwith our platform.
+
+ - We currently have 4 Server Instances - one for Frontend (ReactJS & ExpressJS), one for Backend (NodeJS & Mongoose), one for Database (MongoDB), and one for ElasticSearch (ElasticSearch and Redis) for our Analytics and Notifications Server.
+
+ - We aim to use NGNIX for routing/load-balancing between NodeJS and ELB.
+
+ - Our entire code is over API Framework on token based authentication. We are building an ecosystem to Accept Internal/Third-Party APIs and also to expose our APIs for integration to Public. We need to access if we need to use API Gateway?
+
+ - We are aiming to serve clients in US, UK, Australia, and India primarily, and need to keep in mind the US requisites of Data Encryption, and EU requisites of Data Protection and GDPR. As we shall be accepting payments over our applications (both at system and client levels) - we are looking for encryption at all levels and running apps on HTTPS protocols by default.
+
+ - We are using Elastic Transcoding to Rich Media Data uploads, using Lambda functions and shall aim to serving content fastest using CDN. Later we are also working on streaming LIVE Content over our applications, and need to evaluate the need of Kenises, if that shall serve the requirement.
+
+ - For code versioning and branching our sprints - we are currently using BitBucket.
+ 
+ - We want to create our cloud hosting architecture/environments which can make our application Cloud Agnostic - for us to switch our applications between GCM and Azure at any given time.
+
+ - We are also using SNS, SES, Route53, Certificate Manager besides other basic AWS Services in our current architecture.
+
+
+This is a brief summary to give you a hands-on understanding of what we are currently doing, and once you have a look at our APP, we need your help in structuring our application for even better performance. However, as we are currently in development mode, we have No Loads or Subscribers to check with actual traffic.
+
+def date_view(request):
+    return HttpResponse("<html><body>hello world</body></html>");
+
+====================================================================================================
+
+1. Company manages two separate accounts for Development amd Production, how developer access production account ?
+2. Application runs in a VPC and there is new application launched in separate VPC, then how communicate both applications to each other ?
+3. If you bid 0.22, market price is 0.20 but after 90 minutes, it will be 0.24 and suspended by aws, then what will be the total cost given by you?
+4. Application is powered by API Gateway and Lambda, why api shows cross origin error ?
+5. Where scripts have to be run when EC2 machine starts so that my ec2 machine has autostarted ?
+6. What is the most durable and preferable way to store user session data ?
+7. Which services have encryption enabled at rest by default ?
+8. Which custom metric is provided by Cloudwatch ?
+9. Which option should be enabled to prevent the accidental deletion of data in s3 ?
+
+
+
+1. Are we responsible to take update from github on daily basis and then update web app in cloud ?
+2. Most preferable cloud is AWS.
+
+
+AWS FAQ:
+1. How we decide about when we use which type of elb ?
+
+
+<div *ngIf="(submitted && userForm.controls['fname'].errors) || userForm.controls['fname'].touched || userForm.controls['fname'].dirty" class="errorMsg">
+          <div *ngIf="userForm.controls['fname'].errors != null && userForm.controls['fname'].errors.required == true">
+          First Name is required.
+          </div>
+          <div *ngIf="userForm.controls['fname'].errors != null && userForm.controls['fname'].errors.pattern">
+            Only Characters are allowed in First Name.
+          </div>
+        </div>

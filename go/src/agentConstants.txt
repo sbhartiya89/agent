@@ -1,0 +1,27 @@
+# Response Url for different activity. Used when agent finishes their job and returns work status
+
+#Instructions for agent
+getInstruction="https://127.0.0.1/getinstructionsforagent"
+
+# Url for Server Regn Process
+serverRegn="https://127.0.0.1/registerserver"
+
+# Response Url for different activity. Used when agent finishes their job and returns work status
+responseUrl_addUser="https://127.0.0.1/addeduserbyagent"
+responseUrl_deleteUser="https://127.0.0.1/deleteduserbyagent"
+responseUrl_changePrivilege="https://127.0.0.1/privilegechangedbyagent"
+responseUrl_changePrivEmail="http://127.0.0.1/changePrivilegeEmail"
+
+DEFAULT_VALUE="DEFAULT_VALUE"
+########################## Env Related Data ##################################
+# Below are file for env variable manipulation. Put another file with COMMA.If bash_profile is missing on any distro,
+# then system will try to find such file which is after .bash_profile. Same rule also apply for system_specific_envFile.
+# Format of the comma separated file names will be user_specific_envFile=".bash_profile,.bash_profile,.profile"
+
+user_specific_envFile=".bashrc"
+
+# Below file name by default will search on /etc/ directory
+system_specific_envFile="profile" 
+
+# No one can change/set below variables even with root level user
+restricted_env_variables="PATH,EDITOR,VISUAL,PRINTER,LPDEST,PWD,HOME,SHELL,USER,LOGNAME,TERM,TERMCAP,ENV,BASH_ENV,PAGER,PS1,PS2,MANPATH,TZ,DISPLAY,INPUTRC,LS_COLORS,LS_COLOURS,DOMAIN,HISTSIZE,HOSTNAME,LANG,LD_LIBRARY_PATH,MAIL,OS,OSTYPE,UID,XENVIRONMENT,XFILESEARCHPATH"

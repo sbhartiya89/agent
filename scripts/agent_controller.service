@@ -1,26 +1,12 @@
 #!/bin/bash
 
 
-. /etc/init.d/functions
-
-# chkconfig: 35 90 12
-# description: Agent Installer Test
-#
-
-# Get function from functions library
-
-# Start the service AgentInstaller
-
- 
-
 start() {
 
-    echo "Going to execute start function"
     echo $"***********  agent_controller service started. Triggered from /etc/init.d/agent_controller.service ***********"
 
-    command="/opt/infraguard/sbin/infraGuardMain"
-    $command >/dev/null 2>&1 &
-    echo "End of start function : $?"
+    command="/opt/cloudguard/sbin/cloudGuardMain"
+    daemon "nohup $command >/dev/null 2>&1 &"
 }
 
 # To execute this from CLI --> /etc/init.d/agent_controller.service stop
@@ -28,13 +14,10 @@ stop(){
 echo "Going to kill process agent_controller.service"
 pkill  agent_controller.service
 
-
-pId=$(ps -ef | grep 'infraGuardMain' | grep -v 'grep' | awk '{ printf $2 }')
+pId=$(ps -ef | grep 'cloudGuardMain' | grep -v 'grep' | awk '{ printf $2 }')
 echo "pId = : $pId"
 command="/bin/kill -9 $pId"
 $command
-
-
 
 if [ $? != 0 ]; then                   
    echo "Unable to kill process id $pId" 
@@ -47,6 +30,28 @@ fi
 }
 
 
+# Agent Uninstallation  Process
+uninstall() {
+
+echo "Going to kill process agent_controller.sh"
+pkill  agent_controller.sh
+
+
+pId=$(ps -ef | grep 'cloudGuardMain' | grep -v 'grep' | awk '{ printf $2 }')
+echo "pId = : $pId"
+command="/bin/kill -9 $pId"
+$command
+
+if [ $? != 0 ]; then                   
+   echo "Unable to kill process id $pId" 
+else
+   command="chkconfig --del agent_controller.sh"
+   $command 
+
+   echo "Process $pId killed successfully " 
+fi
+
+}
 
 case "$1" in
   start)
@@ -66,4 +71,3 @@ status)
 esac
 
 exit 0
-

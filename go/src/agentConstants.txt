@@ -1,15 +1,15 @@
 # Response Url for different activity. Used when agent finishes their job and returns work status
 
 #Instructions for agent
-getInstruction="https://127.0.0.1/getinstructionsforagent"
+getInstruction="http://127.0.0.1/getinstructionsforagent"
 
 # Url for Server Regn Process
-serverRegn="https://127.0.0.1/registerserver"
+serverRegn="http://127.0.0.1/registerserver"
 
 # Response Url for different activity. Used when agent finishes their job and returns work status
-responseUrl_addUser="https://127.0.0.1/addeduserbyagent"
-responseUrl_deleteUser="https://127.0.0.1/deleteduserbyagent"
-responseUrl_changePrivilege="https://127.0.0.1/privilegechangedbyagent"
+responseUrl_addUser="http://127.0.0.1/addeduserbyagent"
+responseUrl_deleteUser="http://127.0.0.1/deleteduserbyagent"
+responseUrl_changePrivilege="http://127.0.0.1/privilegechangedbyagent"
 responseUrl_changePrivEmail="http://127.0.0.1/changePrivilegeEmail"
 
 DEFAULT_VALUE="DEFAULT_VALUE"

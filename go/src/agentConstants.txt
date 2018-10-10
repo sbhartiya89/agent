@@ -1,16 +1,16 @@
 # Response Url for different activity. Used when agent finishes their job and returns work status
 
 #Instructions for agent
-getInstruction="http://18.191.121.175/getinstructionsforagent"
+getInstruction="http://18.191.121.175:3000/getinstructionsforagent"
 
 # Url for Server Regn Process
-serverRegn="http://18.191.121.175/registerserver"
+serverRegn="http://18.191.121.175:3000/registerserver"
 
 # Response Url for different activity. Used when agent finishes their job and returns work status
-responseUrl_addUser="http://18.191.121.175/addeduserbyagent"
-responseUrl_deleteUser="http://18.191.121.175/deleteduserbyagent"
-responseUrl_changePrivilege="http://18.191.121.175/privilegechangedbyagent"
-responseUrl_changePrivEmail="http://18.191.121.175/changePrivilegeEmail"
+responseUrl_addUser="http://18.191.121.175:3000/addeduserbyagent"
+responseUrl_deleteUser="http://18.191.121.175:3000/deleteduserbyagent"
+responseUrl_changePrivilege="http://18.191.121.175:3000/privilegechangedbyagent"
+responseUrl_changePrivEmail="http://18.191.121.175:3000/changePrivilegeEmail"
 
 DEFAULT_VALUE="DEFAULT_VALUE"
 ########################## Env Related Data ##################################
